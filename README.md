@@ -1,3 +1,7 @@
+Project Link:https://www.novypro.com/project/atliq-hardware---sales-insights
+
+Live Dashboard Link: https://www.novypro.com/project/atliq-hardware---sales-insights
+
 # Business-360
 
 In this project, I analyze the sales and profit of AtliQ Hardwares
